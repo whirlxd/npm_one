@@ -1,0 +1,14 @@
+{
+    "name": "@whirl21/npm1",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "Whirl21/npm_one",
+    "main": "index.js",
+    "keywords": [
+      "remove spaces",
+      "npm",
+      "package",
+      "whirl21"
+    ]
+  }
