@@ -5,9 +5,9 @@ $ npm i @whirl21/npm1
 ```
 # USAGE
 ```js
-const rs = require("@whirl21/npm1");
+const tiny = require("@whirl21/npm1");
 
-rs("So much space!");
+tiny("So much space!");
 //=> "Somuchspace!"
 
 tiny(1337);
